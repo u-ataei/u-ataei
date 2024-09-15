@@ -4,7 +4,7 @@
 
 Experienced backend developer specializing in Node.js with a focus on building powerful and scalable web applications. Proficient in popular frameworks like Express.js and Nest.js, and knowledgeable in essential concepts such as RESTful APIs and databases like MongoDB, PostgreSQL, MySQL. Skilled in designing and implementing security systems and identity management. Experienced in working with development environments based on Docker and utilizing automation tools like Jenkins.
 
-[![wakatime](https://wakatime.com/badge/user/7208c7e2-6482-4175-9d5d-c412c00ab154.svg)](https://wakatime.com/@7208c7e2-6482-4175-9d5d-c412c00ab154)![Visitor count](https://komarev.com/ghpvc/?username=ousef-ataei&color=green)
+[![wakatime](https://wakatime.com/badge/user/7208c7e2-6482-4175-9d5d-c412c00ab154.svg)](https://wakatime.com/@7208c7e2-6482-4175-9d5d-c412c00ab154) [![Visitor count](https://komarev.com/ghpvc/?username=ousef-ataei&color=green)
 
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ataeiu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ataeiu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ataeiu) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white)](https://t.me/ataeiu)
