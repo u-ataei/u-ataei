@@ -4,7 +4,7 @@
 
 Experienced backend developer specializing in Node.js with a focus on building powerful and scalable web applications. Proficient in popular frameworks like Express.js and Nest.js, and knowledgeable in essential concepts such as RESTful APIs and databases like MongoDB, PostgreSQL, MySQL. Skilled in designing and implementing security systems and identity management. Experienced in working with development environments based on Docker and utilizing automation tools like Jenkins.
 
-[![wakatime](https://wakatime.com/badge/user/7208c7e2-6482-4175-9d5d-c412c00ab154.svg)](https://wakatime.com/@7208c7e2-6482-4175-9d5d-c412c00ab154) ![Visitor count](https://komarev.com/ghpvc/?username=ousef-ataei&color=green)
+![Visitor count](https://komarev.com/ghpvc/?username=ousef-ataei&color=green)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ataeiu) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ataeiu/) 
