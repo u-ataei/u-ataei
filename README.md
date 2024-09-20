@@ -1,6 +1,6 @@
 ### About Me:
 
-#### Hi There <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
+#### Hi There
 
 Experienced backend developer specializing in Node.js with a focus on building powerful and scalable web applications. Proficient in popular frameworks like Express.js and Nest.js, and knowledgeable in essential concepts such as RESTful APIs and databases like MongoDB, PostgreSQL, MySQL. Skilled in designing and implementing security systems and identity management. Experienced in working with development environments based on Docker and utilizing automation tools like Jenkins.
 
