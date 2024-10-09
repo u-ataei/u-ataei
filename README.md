@@ -1,4 +1,4 @@
-### 👋 Hi! I’m Yousef!
+### about
 
 Experienced backend developer specializing in Node.js with a focus on building powerful and scalable web applications. Proficient in popular frameworks like Express.js and Nest.js, and knowledgeable in essential concepts such as RESTful APIs and databases like MongoDB, PostgreSQL, MySQL. Skilled in designing and implementing security systems and identity management. Experienced in working with development environments based on Docker.
 
