@@ -18,6 +18,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-00A7E1?style=flat&logo=githubactions&logoColor=white)  
 <br>
+
 💡 I love solving complex problems and working on impactful projects.  
 🌱 I’m constantly learning new technologies and improving my skills.  
 
