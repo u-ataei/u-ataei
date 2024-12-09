@@ -1,6 +1,6 @@
-👋 **Hi! I’m Yousef Ataei**  
 💻 **Node.js Developer** passionate about designing and developing optimized and scalable backends.  
-<br><br>
+<br>
+
 🚀 **Skills & Technologies:**  
 
 **Languages:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
@@ -25,4 +25,9 @@
 💡 I love solving complex problems and working on impactful projects.  
 🌱 I’m constantly learning new technologies and improving my skills.  
 
-If you’re interested in collaborating, I’d be happy to connect!  
+If you’re interested in collaborating, I’d be happy to connect!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ataeiu@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.me/989107241536)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ataeiu)
+
