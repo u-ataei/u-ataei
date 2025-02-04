@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+Go+%7C+TypeScript;Passionate+about+scalable+systems;Always+learning+new+technologies" />
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -14,7 +13,6 @@
 🔹 Skilled in **security systems & identity management**  
 🔹 Experienced with **Docker & microservices**  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -22,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,express,nestjs,jest,postgres,mongodb,mysql,docker,linux,rabbitmq,git,github" />
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -31,7 +29,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=u-ataei&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
----
 
 ## 💬 Let's Connect
 
