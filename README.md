@@ -1,9 +1,10 @@
-## Node.js Developer | Scalable & Secure Web Applications
-I am a Node.js developer specializing in building scalable, high-performance web applications. With expertise in designing and implementing RESTful APIs, I work seamlessly with databases like MongoDB, PostgreSQL, and MySQL to create efficient and reliable solutions.
+## 🚀 Node.js Developer | Scalable & High-Performance Web Applications
 
-Proficient in Express.js, Nest.js, and Fastify, I have a strong background in security systems and identity management. I also excel in Docker-based environments, ensuring optimized, modular, and maintainable code.
+I am a Node.js developer with a passion for building scalable, high-performance web applications. I specialize in designing and implementing RESTful APIs while seamlessly working with MongoDB, PostgreSQL, and MySQL to deliver efficient and reliable solutions.
 
-I thrive on solving complex challenges and continuously learning cutting-edge technologies to enhance user experience and drive business success.
+With expertise in Express.js, Nest.js, and Fastify, I have a strong foundation in security systems and identity management. My experience extends to Docker-based environments, where I focus on writing optimized, modular, and maintainable code.
+
+I thrive on solving complex challenges and continuously exploring cutting-edge technologies to enhance user experience and drive business success.
 
 ### 🚀 Skills & Technologies  
 
