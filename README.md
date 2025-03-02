@@ -1,4 +1,4 @@
-## 🚀 Node.js Developer | Scalable & High-Performance Web Applications
+## Node.js Developer | Scalable & High-Performance Web Applications
 
 I am a Node.js developer with a passion for building scalable, high-performance web applications. I specialize in designing and implementing RESTful APIs while seamlessly working with MongoDB, PostgreSQL, and MySQL to deliver efficient and reliable solutions.
 
