@@ -6,6 +6,8 @@ With expertise in Express.js, Nest.js, and Fastify, I have a strong foundation i
 
 I thrive on solving complex challenges and continuously exploring cutting-edge technologies to enhance user experience and drive business success.
 
+[![wakatime](https://wakatime.com/badge/user/7208c7e2-6482-4175-9d5d-c412c00ab154.svg)](https://wakatime.com/@7208c7e2-6482-4175-9d5d-c412c00ab154)
+
 ### 🚀 Skills & Technologies  
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
