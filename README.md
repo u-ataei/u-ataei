@@ -4,7 +4,7 @@ I am always learning and exploring new technologies, seeking opportunities to wo
 
 ---
 
-## ⚡ Technologies & Tools I Use
+## ⚡ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=django&logoColor=white)
