@@ -23,7 +23,7 @@ I am always learning and exploring new technologies, seeking opportunities to wo
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=plastic&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-77AC30?style=plastic&logo=seaborn&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=u-ataei=8A2BE2&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=u-ataei&color=8A2BE2&style=plastic)
 
 ---
 
