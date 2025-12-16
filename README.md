@@ -27,9 +27,3 @@ I am always learning and exploring new technologies, seeking opportunities to wo
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-77AC30?style=for-the-badge&logo=seaborn&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-[![U-ataei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=u-ataei&show_icons=true&count_private=true&theme=radical)](https://github.com/u-ataei) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=u-ataei&layout=compact&theme=radical)](https://github.com/u-ataei) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=u-ataei&theme=radical&hide_border=false)](https://github.com/u-ataei)
