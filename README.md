@@ -1,45 +1,37 @@
-I am a Python developer specializing in **Django web development**, **Machine Learning**, and **Data Science**. I enjoy building dynamic web applications, REST APIs, and data-driven solutions. Solving complex problems and collaborating with teams to deliver scalable and impactful projects is what drives me.  
+I am a **Backend Developer specializing in Node.js**, focused on building **scalable server-side applications**, **RESTful APIs**, and **high-performance backend systems**. I enjoy designing clean architectures, working with databases, and integrating third-party services to deliver reliable and maintainable solutions.
 
-I am always learning and exploring new technologies, seeking opportunities to work on projects that combine web development and data science.
+I am driven by solving complex backend problems, optimizing performance, and collaborating with cross-functional teams to build production-ready systems. I continuously explore new backend technologies, system design patterns, and cloud-native approaches to improve application scalability and reliability.
 
 ---
 
 ## ⚡ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?style=plastic&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white&labelColor=323330)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=plastic&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-005571?style=plastic)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-07405e?style=plastic&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05033?style=plastic&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=plastic&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-77AC30?style=plastic&logo=seaborn&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05033?style=plastic&logo=git&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=u-ataei&color=8A2BE2&style=plastic)
 
 ---
 
 ## 🧰 Tech Stack & Skills
 
-| 🧠 **Language / Tool**       | 💼 **Main Usage**                                  | 📊 **Proficiency**         |
-|------------------------------|----------------------------------------------------|----------------------------|
-| 🐍 **Python**                | 🌐 Web development, scripting, ML, data analysis  | ⭐⭐⭐⭐⭐ (Expert)            |
-| 🌿 **Django**                | 🚀 Backend web framework, REST APIs               | ⭐⭐⭐⭐⭐ (Expert)            |
-| ⚡ **Django REST Framework**  | 🔄 Building RESTful APIs                           | ⭐⭐⭐⭐☆ (Advanced)          |
-| 📊 **Pandas**                | 📈 Data manipulation and analysis                 | ⭐⭐⭐⭐⭐ (Expert)            |
-| 🔢 **NumPy**                 | 🔬 Numerical computing for ML and data science   | ⭐⭐⭐⭐☆ (Advanced)          |
-| 🤖 **Scikit-learn**          | 🧠 Machine Learning algorithms & modeling         | ⭐⭐⭐⭐☆ (Advanced)          |
-| 🔥 **PyTorch**               | 🤖 Deep learning and neural networks             | ⭐⭐⭐⭐☆ (Advanced)          |
-| 🌐 **HTML5 / CSS3 / JS**      | 🎨 Frontend basics for web applications          | ⭐⭐⭐☆ (Intermediate)       |
-| 🗄️ **PostgreSQL / SQLite**    | 🗃️ Databases for web apps and data storage       | ⭐⭐⭐⭐☆ (Advanced)          |
-| 🐳 **Docker**                | 📦 Containerization for development & deployment | ⭐⭐⭐⭐☆ (Advanced)          |
-
-
+| 🧠 **Language / Tool**   | 💼 **Main Usage**                                      | 📊 **Proficiency** |
+|-------------------------|--------------------------------------------------------|--------------------|
+| ⚡ **Node.js**           | 🚀 Backend runtime, scalable server applications       | ⭐⭐⭐⭐⭐ (Expert)    |
+| 🌐 **Express.js**       | 🔄 RESTful APIs & middleware                           | ⭐⭐⭐⭐⭐ (Expert)    |
+| 🔷 **TypeScript**       | 🛡️ Type-safe backend development                      | ⭐⭐⭐⭐☆ (Advanced)  |
+| 🟨 **JavaScript (ES6+)** | 🧠 Core backend logic                                  | ⭐⭐⭐⭐⭐ (Expert)    |
+| 🗄️ **PostgreSQL**       | 📊 Relational database design & queries                | ⭐⭐⭐⭐☆ (Advanced)  |
+| 🍃 **MongoDB**          | 📁 NoSQL data modeling                                 | ⭐⭐⭐⭐☆ (Advanced)  |
+| ⚡ **Redis**             | 🚄 Caching & session management                        | ⭐⭐⭐⭐☆ (Advanced)  |
+| 🔐 **JWT / Auth**       | 🔑 Authentication & authorization                     | ⭐⭐⭐⭐☆ (Advanced)  |
+| 🐳 **Docker**           | 📦 Containerization & deployments                     | ⭐⭐⭐⭐☆ (Advanced)  |
+| 🔧 **Git**              | 🌱 Version control & collaboration                    | ⭐⭐⭐⭐⭐ (Expert)    |
