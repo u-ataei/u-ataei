@@ -4,7 +4,7 @@ I enjoy designing **clean, maintainable architectures**, working with **SQL and 
 
 I am driven by solving complex backend problems, optimizing system performance, and collaborating with cross-functional teams to build **reliable and scalable systems**. I continuously explore **Node.js best practices**, backend design patterns, and **cloud-native approaches** to improve **scalability, security, and long-term maintainability**.
 
----
+
 
 ## ⚡ Technologies & Tools
 
@@ -25,7 +25,7 @@ I am driven by solving complex backend problems, optimizing system performance, 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Profile Views](https://komarev.com/ghpvc/?username=u-ataei&color=8A2BE2&style=plastic)
 
----
+
 
 ## 🚀 What I Do
 
@@ -37,7 +37,7 @@ I am driven by solving complex backend problems, optimizing system performance, 
 - Containerize and deploy applications using Docker
 - Collaborate with frontend, DevOps, and product teams
 
----
+
 
 ## 📈 Focus Areas
 
