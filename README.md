@@ -6,6 +6,8 @@ I thrive on solving complex backend challenges, improving system performance, an
 
 ## ⚡ Technologies & Tools
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=plastic)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white)
