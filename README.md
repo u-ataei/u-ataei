@@ -18,6 +18,7 @@ I thrive on solving complex backend challenges, improving system performance, an
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/-BullMQ-563D7C?style=plastic)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0052CC?style=plastic)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=plastic?logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=plastic&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black)
